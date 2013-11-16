@@ -1,0 +1,19 @@
+@package:       QLS
+@version:       4.0.0
+@author:        Douglas Rennehan
+@link:          http://www.quadodo.net
+@support:       http://www.quadodo.net/forum/index.php
+@project-page:  http://sourceforge.net/projects/qls
+@hosting:       http://bluegeeks.co.uk
+@online-docs:   http://dev.quadodo.net/qls-3.1.9/
+
+
+About:
+
+Simple login script, integrated with major social media sites, as well as phpBB. Includes
+a user administration backend for organizing who can access what on your personal/business
+website.
+
+Installation Instructions:
+
+To come.
